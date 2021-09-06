@@ -1,4 +1,6 @@
 # Inventory-Managent-System
+##### 30 Prodcuts in record.json file <br />
+##### 10 Transaction im sales.json file <br />
 ### Project Files for Inventory Managment System Skill India Internship for AI/ML<br />
 ### In this project of Inventory Managment System<br />
 ### I have made a Menu Driven Code for executing the required tasks<br />
